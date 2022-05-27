@@ -1,0 +1,146 @@
+.cuadrado {
+    margin: 0.4em;
+    margin-top: 10px;
+    display: inline-block;
+    float: top;
+    border: black solid;
+}
+
+.col {
+    background-color: #ffffff;
+    border: #000 solid;
+    width: 20px;
+    height: 80px;
+}
+
+.numero4 {
+    width: 40%;
+    height: 370px;
+    float: left;
+    color: #000;
+}
+
+.numero5 {
+
+    color: #000;
+    text-align: start;
+    width: 60%;
+    height: 370px;
+    float: left;
+}
+
+.numero2 {
+    width: 40%;
+    height: 350px;
+    float: left;
+}
+
+.numero3 {
+    color: #000;
+    text-align: start;
+    width: 60%;
+    height: 350px;
+    float: left;
+}
+
+.w1 {
+    text-align: start;
+    width: 70%;
+    height: 350px;
+    float: left;
+}
+
+.w2 {
+
+    width: 30%;
+    height: 350px;
+    float: left;
+}
+
+.x1 {
+    background-color: #badbcc;
+    width: 160px;
+    float: left;
+    height: 160px;
+    border: #000 solid;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.ultimo {
+
+    background-color: #d7d8da;
+    width: 100%;
+    height: 250px;
+    border: #000 solid;
+    margin-bottom: 20px;
+}
+
+.mun1 {
+    background-color: #d7d8da;
+    width: 300px;
+    height: 150px;
+    border: #000 solid;
+    margin-top: 10px;
+}
+
+.mun2 {
+    background-color: #d7d8da;
+    width: 300px;
+    height: 150px;
+    border: #000 solid;
+    margin-top: 10px;
+}
+
+.mun3 {
+    background-color: #d7d8da;
+    width: 300px;
+    height: 160px;
+    border: #000 solid;
+    margin-top: 10px;
+}
+
+.mun4 {
+    background-color: #d7d8da;
+    width: 300px;
+    height: 190px;
+    border: #000 solid;
+    margin-top: 10px;
+}
+
+.table {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100px;
+    border: #000 solid;
+
+}
+
+.caja1 {
+
+    width: 24%;
+    height: 800px;
+    float: left;
+    color: #000;
+}
+
+.caja2 {
+    width: 75%;
+    height: 1300px;
+    float: left;
+}
+
+.cajamedio {
+    background-color: #000;
+    width: 0.5%;
+    height: 1300px;
+    float: left;
+    color: #000;
+}
+
+.cajamedio2 {
+    width: 0.5%;
+    height: 1300px;
+    float: left;
+    color: #000;
+}
